@@ -1,6 +1,6 @@
 # Inventory Confidence Diagnostic
 
-![Power BI Dashboard](Inventory%20Confidence%20Dashboard.png)
+![Power BI Dashboard](Executive%20summary.png)
 
 ## Overview
 
